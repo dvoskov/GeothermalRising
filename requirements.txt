@@ -3,3 +3,6 @@ matplotlib
 pandas
 pyvista
 scipy
+openpyxl
+xlrd
+pykrige
