@@ -6,4 +6,4 @@ scipy
 openpyxl
 xlrd
 pykrige
-pip install opencv-python
+opencv-python
