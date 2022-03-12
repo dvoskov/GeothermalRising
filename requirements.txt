@@ -6,4 +6,5 @@ scipy
 openpyxl
 xlrd
 pykrige
-opencv-python-headless
+libgl1-mesa-dev
+xvfb
