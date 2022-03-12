@@ -6,5 +6,4 @@ scipy
 openpyxl
 xlrd
 pykrige
-libgl1-mesa-dev
-xvfb
+
