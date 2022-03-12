@@ -6,4 +6,4 @@ scipy
 openpyxl
 xlrd
 pykrige
-opencv-python-headless
+
